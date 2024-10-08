@@ -1,7 +1,12 @@
-## Hi there 👋
+## ola, sou maria julia 👋
+cursos desenvolvidos: javascript.,alura,informatica,canva,word...
 
-<!--
-**estudantealuraM/estudantealuraM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+link dos projetos:
+https://scratch.mit.edu/projects/860901407
+
+https://editor.p5js.org/mariajuliaaluna/sketches/g_xatcePJ
+![garfield](https://media.tenor.com/cggEJgPtFQQAAAAM/garfield-dance.gif)
+
 
 Here are some ideas to get you started:
 
